@@ -1,0 +1,51 @@
+graph LR
+    User[End User] -- Interacts via Browser --> FrontendApp
+
+    subgraph FrontendApp [Fashion Muse Studio (Vite + React + TypeScript)]
+        direction LR
+        Router[React Router]
+        
+        subgraph UILayer [UI Components]
+            direction TB
+            AuthComponents; DashboardComponent; ImageStudioShell; SettingsComponent; GalleryComponent; UserProfileComponent;
+            CommunityFeedComponent; PublicItemDetailComponent; SavedPromptsComponent;
+            ProjectManagerUI[Project Management UI]; CollectionManagerUI[Collection/Mood Board UI]; AssetLibraryUI[Asset Libraries UI (Colors, Snippets)];
+            BatchControlsUI[Batch Generation Controls UI]; UpscaleUI[Upscale Image UI];
+            ExportDialogUI[Export Options Dialog UI]; WatermarkSettingsUI[Watermark Settings UI];
+        end
+
+        ImageStudioShell --> TabComponents[Image Creation Tab Components]
+
+        subgraph CoreLogic [Client-Side Services/Logic]
+            direction TB
+            StateMgt[Global State (generationOptions, userSession, etc.)];
+            PromptConstructor[PromptConstructor.ts];
+            SupabaseService[SupabaseService.ts (using @supabase/supabase-js)];
+            FalApiProxyCaller[FalApiProxyCaller.ts];
+            ProjectService[ProjectService.ts]; CollectionService[CollectionService.ts]; AssetService[AssetService.ts];
+            ImageProcessClient[Client Image Processing (Watermark, Export)];
+        end
+        
+        Router --> AuthComponents; Router --> DashboardComponent; Router --> ImageStudioShell;
+        Router --> SettingsComponent; Router --> GalleryComponent; Router --> UserProfileComponent;
+        Router --> CommunityFeedComponent; Router --> ProjectManagerUI; Router --> CollectionManagerUI; Router --> AssetLibraryUI;
+
+        UILayer -- Use --> CoreLogic;
+        CoreLogic -- Manage --> StateMgt;
+        
+        SupabaseService -- Handles Auth, DB, Storage --> SupabaseBaaS;
+        FalApiProxyCaller -- HTTPS Request --> SupabaseBaaS[FalProxyEdgeFunc];
+    end
+    
+    subgraph SupabaseBaaS [Supabase Backend-as-a-Service]
+        direction TB
+        SupabaseAuth[Supabase Authentication];
+        SupabaseDB[Supabase PostgreSQL DB (users, profiles, prompts, gallery_items, likes, projects, collections, assets, etc.)];
+        SupabaseStorage[Supabase Storage (User Uploads, Generated/Upscaled Images, Watermark Logos)];
+        FalProxyEdgeFunc[Edge Function: fal-image-proxy (Handles Gen & Upscale calls to Fal.ai, uses Fal.ai Key from Supabase Secrets, saves images to Supabase Storage)];
+    end
+
+    FalProxyEdgeFunc -- Secure API Call --> FalAI_API[Fal.ai API (Generation & Upscaling)];
+    
+    style FrontendApp fill:#aliceblue,stroke:#333,stroke-width:2px;
+    style SupabaseBaaS fill:#c1f0c1,stroke:#333,stroke-width:2px;

@@ -1,0 +1,257 @@
+START OF MARKED DESCRIPTIONS
+
+Tab 1: Scene Setup
+
+Category: Overall Theme (Source: ImgGenLayout_w_GeminiDeep.txt, [18-35])
+
+[SCENESETUP_OVERALLTHEME_HAUTECOUTURE_DESC] Haute Couture: High-fashion, custom garments for a luxurious feel, often seen in Vogue.
+[SCENESETUP_OVERALLTHEME_STREETSTYLE_DESC] Street Style: Urban, trendy, real-world fashion vibes.
+[SCENESETUP_OVERALLTHEME_EXOTIC_DESC] Exotic: Foreign or tropical elements for an adventurous look, characteristic of Sports Illustrated Swimsuit Issue and Maxim's "wild locations".
+[SCENESETUP_OVERALLTHEME_SWIMWEAR_DESC] Swimwear: Beach or poolside fashion with a summery flair. Captures styles from SI Swimsuit's location-based shoots, Vogue's artistic and evolving swimwear features, or Cosmopolitan's body-confident beach settings.
+[SCENESETUP_OVERALLTHEME_BODYPOSITIVITY_DESC] Body Positivity: Celebrating diverse body types inclusively, reflecting trends in Cosmopolitan, SI Swimsuit, and Glamour.
+[SCENESETUP_OVERALLTHEME_ARTISTICNUDE_DESC] Artistic Nude: Tasteful, abstract focus on the human form, emphasizing contours and light/shadow play. Can range from Playboy's classic softcore sensuality to more conceptual, stylized interpretations.
+[SCENESETUP_OVERALLTHEME_VINTAGE_DESC] Vintage: Nostalgic styles evoking past eras, like Glamour's "Vintage Glamour" with period-specific clothing and soft lighting or the 1970s/80s "dreamy soft-focus" of classic Playboy.
+[SCENESETUP_OVERALLTHEME_SEASONAL_DESC] Seasonal: Captures seasonal vibes (e.g., cozy winter fashion scene with warm knits and soft lighting, vibrant spring collection amidst blooming flowers, autumnal fashion with rich earthy tones, or breezy summer styles by the coast).
+[SCENESETUP_OVERALLTHEME_CULTURAL_DESC] Cultural: Highlights traditional or ethnic fashion, inspired by features like Vogue's "Black Dandy" issue exploring identity and heritage through clothing.
+[SCENESETUP_OVERALLTHEME_FANTASY_DESC] Fantasy: Imaginative, otherworldly scenes, akin to Glamour's "Fantasy Glamour" with elaborate costumes and whimsical settings or Vogue's blend of fashion and fantasy.
+[SCENESETUP_OVERALLTHEME_MINIMALIST_DESC] Minimalist: Clean lines and neutral colors for simplicity, sometimes seen in Vogue's simplistic sets or Glamour's "Classic Glamour".
+[SCENESETUP_OVERALLTHEME_SURREAL_DESC] Surreal: Dreamlike or bizarre elements for creativity, often found in Vogue's high fashion imagery, challenging perception.
+[SCENESETUP_OVERALLTHEME_CANDID_DESC] Candid: Spontaneous, unposed moments of authenticity, central to Lifestyle Photography, capturing genuine expressions and interactions.
+[SCENESETUP_OVERALLTHEME_SPORTY_DESC] Sporty: Athletic wear and an active lifestyle, drawing from SI Swimsuit's celebration of athleticism or modern athleisure trends.
+[SCENESETUP_OVERALLTHEME_EDITORIAL_DESC] Editorial: Story-driven fashion with a narrative arc, a cornerstone of Vogue, Elle, and Teen Vogue, often conveying a concept or theme.
+[SCENESETUP_OVERALLTHEME_BEAUTY_DESC] Beauty: Close-ups emphasizing makeup and features, focusing on flawless skin and intricate details as seen in dedicated Beauty Photography and Glamour magazine.
+[SCENESETUP_OVERALLTHEME_BODYPAINTING_DESC] Body Painting: Transformative art using the body as a canvas, mimicking swimwear as in SI Swimsuit or creating other artistic illusions and patterns.
+Category: Emotional Tone (Source: ImgGenLayout_w_GeminiDeep.txt, [36-48])
+
+[SCENESETUP_EMOTIONALTONE_BOLDANDCONFIDENT_DESC] Bold and Confident: Strength and empowerment radiate, reflecting Cosmopolitan's "fun fearless female" or Maxim's assertive masculinity.
+[SCENESETUP_EMOTIONALTONE_SOFTANDETHEREAL_DESC] Soft and Ethereal: Dreamy, delicate atmosphere, reminiscent of Playboy's classic "dreamy soft-focus" look or a light, airy feel.
+[SCENESETUP_EMOTIONALTONE_MYSTERIOUSANDDRAMATIC_DESC] Mysterious and Dramatic: Intrigue with deep shadows, often found in Vogue's high fashion or Glamour's Black and White style, conveying intensity.
+[SCENESETUP_EMOTIONALTONE_PLAYFULANDYOUTHFUL_DESC] Playful and Youthful: Fun, lighthearted energy, characteristic of Teen Vogue or vibrant, energetic shoots.
+[SCENESETUP_EMOTIONALTONE_ROMANTICANDDREAMY_DESC] Romantic and Dreamy: Evokes love and longing, seen in classic Playboy styles and some Teen Vogue editorials, often with soft lighting and emotive poses.
+[SCENESETUP_EMOTIONALTONE_POWERFULANDASSERTIVE_DESC] Powerful and Assertive: Dominance and control, as conveyed in some Vogue photography or Maxim's portrayal of masculine power, strong stances.
+[SCENESETUP_EMOTIONALTONE_SENSUALANDALLURING_DESC] Sensual and Alluring: Seductive, captivating charm, central to Glamour photography and prominent in Playboy, Maxim, SI Swimsuit, and Cosmopolitan.
+[SCENESETUP_EMOTIONALTONE_MELANCHOLIC_DESC] Melancholic: Subtle sadness or introspection, suitable for artistic or editorial expressions, thoughtful and somber moods.
+[SCENESETUP_EMOTIONALTONE_JOYFUL_DESC] Joyful: Bright happiness and positivity, often seen in Teen Vogue and Lifestyle photography, conveying exuberance.
+[SCENESETUP_EMOTIONALTONE_INTROSPECTIVE_DESC] Introspective: Deep thought or quiet reflection, often conveyed in portraiture, pensive and calm.
+[SCENESETUP_EMOTIONALTONE_REBELLIOUS_DESC] Rebellious: Defiance or nonconformity shines, aligning with Elle's "edgy" photographic styles, conveying an anti-establishment attitude.
+[SCENESETUP_EMOTIONALTONE_SOPHISTICATED_DESC] Sophisticated: Elegance and refinement prevail, a hallmark of Vogue and Glamour, conveying class and polish.
+[SCENESETUP_EMOTIONALTONE_ESCAPIST_DESC] Escapist: Transports the viewer to desirable, often remote, locales, a key element of SI Swimsuit photography, conveying adventure and fantasy.
+Category: Color Palette (Source: ImgGenLayout_w_GeminiDeep.txt, [49-56])
+
+[SCENESETUP_COLORPALETTE_MONOCHROME_DESC] Monochrome: Black & white or single-tone elegance, as seen in Glamour's "Black and White Glamour" or some Vogue work, focusing on form and contrast.
+[SCENESETUP_COLORPALETTE_PASTELS_DESC] Pastels: Soft pinks, lavenders, mints for gentleness. Vogue's "Black Dandy" issue utilized pastels; Teen Vogue also employs them for a light, airy feel.
+[SCENESETUP_COLORPALETTE_JEWELTONES_DESC] Jewel Tones: Rich emerald, sapphire, ruby for luxury, opulence, and depth.
+[SCENESETUP_COLORPALETTE_NEUTRALS_DESC] Neutrals: Beige, taupe, ivory for understated chic, aligning with Vogue's minimalist approaches or a sophisticated, timeless look.
+[SCENESETUP_COLORPALETTE_BOLDCONTRASTS_DESC] Bold Contrasts: Black/red, blue/yellow for impact, a feature of Vogue and Elle photography, creating dynamic and attention-grabbing visuals.
+[SCENESETUP_COLORPALETTE_METALLIC_DESC] Metallic: Gold, silver, bronze for a shiny edge, futuristic or glamorous highlights.
+[SCENESETUP_COLORPALETTE_EARTHYTONES_DESC] Earthy Tones: Terracotta, olive, sand for warmth, natural, and grounded aesthetics.
+[SCENESETUP_COLORPALETTE_NEON_DESC] Neon: Bright, fluorescent colors for vibrancy, sometimes seen in Teen Vogue, creating an energetic and modern feel.
+[SCENESETUP_COLORPALETTE_COMPLEMENTARY_DESC] Complementary: Opposite colors on the color wheel (e.g., red/green, blue/orange) for striking, vibrant contrast that pops.
+[SCENESETUP_COLORPALETTE_ANALOGOUS_DESC] Analogous: Adjacent colors on the color wheel (e.g., blue, blue-green, green) for harmonious, serene, and cohesive flow.
+[SCENESETUP_COLORPALETTE_WARMTONES_DESC] Warm Tones: Golden, sun-kissed, inviting hues (reds, oranges, yellows), characteristic of classic Playboy and SI Swimsuit's golden hour shots.
+[SCENESETUP_COLORPALETTE_MUSKYHAZE_DESC] Musky Haze: A unique, visually interesting, slightly subdued and hazy color treatment, noted in some Elle photography, offering a desaturated, atmospheric quality.
+Category: Time/Era (Source: ImgGenLayout_w_GeminiDeep.txt, [57-63])
+
+[SCENESETUP_TIMEERA_1920SFLAPPER_DESC] 1920s Flapper: Art Deco elegance, fringe dresses, bobbed hair, cloche hats, pearl necklaces, jazz age sophistication.
+[SCENESETUP_TIMEERA_1950SHOLLYWOODGLAM_DESC] 1950s Hollywood Glam: Full skirts, nipped waists, red lips, glamorous gowns, cat-eye sunglasses, elegant updos, epitome of classic movie star style.
+[SCENESETUP_TIMEERA_1950SVOGUESWIMWEAR_DESC] 1950s Vogue Swimwear: Classic, elegant swimwear fashion from the mid-century, often in luxurious or exotic locales, structured silhouettes, matching hats and accessories.
+[SCENESETUP_TIMEERA_1960SMOD_DESC] 1960s Mod: Bold patterns, mini skirts, A-line dresses, geometric prints, Vidal Sassoon haircuts, retro pop art influences.
+[SCENESETUP_TIMEERA_1970SDISCO_DESC] 1970s Disco: Bell-bottoms, platform shoes, glitter, sequins, jumpsuits, dance vibes, Studio 54 glamour.
+[SCENESETUP_TIMEERA_1970SPLAYBOYAESTHETIC_DESC] 1970s Playboy Aesthetic: Ethereal, soft, often warm-toned glamour with a distinct vintage "dreamy soft-focus" feel, naturalistic settings, a sense of intimacy and romance.
+[SCENESETUP_TIMEERA_1980SPOWERDRESSING_DESC] 1980s Power Dressing: Shoulder pads, bold colors, statement jewelry, tailored suits for women, big hair, confident and assertive style.
+[SCENESETUP_TIMEERA_1990SGRUNGE_DESC] 1990s Grunge: Plaid flannel shirts, ripped jeans, combat boots, minimal makeup, raw edge, anti-fashion aesthetic.
+[SCENESETUP_TIMEERA_2000SBOHO_DESC] 2000s Boho: Flowy dresses, earthy tones, fringe, layered jewelry, floppy hats, free-spirited and eclectic style.
+[SCENESETUP_TIMEERA_FUTURISTIC_DESC] Futuristic: High-tech fabrics, metallic finishes, unconventional silhouettes, avant-garde, science-fiction inspired fashion forward designs.
+[SCENESETUP_TIMEERA_1940SWARTIME_DESC] 1940s Wartime: Utility fashion, tailored suits, sensible heels, victory rolls hairstyles, an emphasis on practicality and resourcefulness with an underlying elegance.
+[SCENESETUP_TIMEERA_RENAISSANCE_DESC] Renaissance: Historical, ornate elegance, rich fabrics like velvet and brocade, corsetry, elaborate sleeves, intricate details inspired by Renaissance art and fashion.
+Category: Fashion Trend (Source: ImgGenLayout_w_GeminiDeep.txt, [64-68])
+
+[SCENESETUP_FASHIONTREND_MINIMALISM_DESC] Minimalism: Clean lines, neutral colors, simplicity, uncluttered silhouettes, focus on quality and tailoring, "less is more."
+[SCENESETUP_FASHIONTREND_MAXIMALISM_DESC] Maximalism: Bold prints, layered accessories, clashing patterns, vibrant colors, excess, "more is more," highly expressive.
+[SCENESETUP_FASHIONTREND_SUSTAINABLEFASHION_DESC] Sustainable Fashion: Eco-friendly fabrics, ethical production, upcycled materials, conscious consumerism, natural dyes.
+[SCENESETUP_FASHIONTREND_ATHLEISURE_DESC] Athleisure: Sporty-chic, comfortable wear blending athletic apparel with everyday fashion, leggings, sneakers, hoodies as fashion statements.
+[SCENESETUP_FASHIONTREND_RETROREVIVAL_DESC] Retro Revival: Vintage-inspired modern twists, bringing back styles from past decades with contemporary updates.
+[SCENESETUP_FASHIONTREND_AVANTGARDE_DESC] Avant-Garde: Experimental, artistic designs, pushing boundaries, unconventional materials and silhouettes, central to Vogue and sometimes Elle.
+[SCENESETUP_FASHIONTREND_SHEERFABRICS_DESC] Sheer Fabrics: Transparent, delicate materials like organza, chiffon, lace, creating alluring and ethereal looks.
+[SCENESETUP_FASHIONTREND_GENDERFLUID_DESC] Gender-Fluid: Blurring traditional gender norms in clothing, unisex designs, androgynous styles.
+[SCENESETUP_FASHIONTREND_UPCYCLING_DESC] Upcycling: Repurposed materials, creativity in transforming old garments into new, unique fashion pieces.
+[SCENESETUP_FASHIONTREND_TECHWEAR_DESC] Techwear: Functional, futuristic clothing with technical fabrics, utilitarian details, often a cyberpunk or dystopian aesthetic.
+[SCENESETUP_FASHIONTREND_BODYPAINTASFASHION_DESC] Body Paint as Fashion: Using the body as a canvas to create the illusion of garments or artistic designs, a signature of SI Swimsuit, pushing creative boundaries.
+Category: Background/Setting (Source: ImgGenLayout_w_GeminiDeep.txt, [69-75])
+
+[SCENESETUP_BACKGROUND_URBANCITYSCAPE_DESC] Urban Cityscape: Streets, skyscrapers, gritty vibe, rooftops, alleyways. Seen in Elle and Vogue.
+[SCENESETUP_BACKGROUND_LUXURIOUSINTERIOR_DESC] Luxurious Interior: Penthouses, studios, opulence, grand staircases, designer furniture. Characteristic of Playboy and some Vogue shoots.
+[SCENESETUP_BACKGROUND_NATURALLANDSCAPE_DESC] Natural Landscape: Beaches, forests, deserts, mountains, organic beauty. Prominent in SI Swimsuit and Maxim.
+[SCENESETUP_BACKGROUND_ABSTRACTSTUDIO_DESC] Abstract Studio: Plain or patterned backdrops, seamless paper, cyclorama walls. Vogue often uses stark or simplistic studio sets.
+[SCENESETUP_BACKGROUND_VINTAGEROOM_DESC] Vintage Room: Ornate, antique decor, nostalgia, period furniture, aligning with Glamour's "Vintage Glamour".
+[SCENESETUP_BACKGROUND_MINIMALISTWHITESPACE_DESC] Minimalist White Space: Clean, empty, modern, allowing full focus on the subject. Teen Vogue often uses clean white backgrounds.
+[SCENESETUP_BACKGROUND_RUNWAYSTAGE_DESC] Runway Stage: Fashion show setting, spotlight, catwalk, audience blurred in background.
+[SCENESETUP_BACKGROUND_INDUSTRIAL_DESC] Industrial: Factories, urban decay, rawness, warehouses, exposed brick, metal structures.
+[SCENESETUP_BACKGROUND_RURAL_DESC] Rural: Countryside, farms, pastoral charm, fields, barns, open spaces.
+[SCENESETUP_BACKGROUND_AQUATIC_DESC] Aquatic: Underwater or poolside, fluidity, reflections, water elements. Common in SI Swimsuit.
+Category: Weather (Source: ImgGenLayout_w_GeminiDeep.txt, [76-77])
+
+[SCENESETUP_WEATHER_SUNNY_DESC] Sunny: Bright, clear skies, vivid colors, hard light or dappled sunlight.
+[SCENESETUP_WEATHER_CLOUDY_DESC] Cloudy: Soft, diffused light, muted tones, overcast sky, even lighting.
+[SCENESETUP_WEATHER_RAINY_DESC] Rainy: Wet streets, moody, reflective surfaces, umbrellas, glistening textures.
+[SCENESETUP_WEATHER_SNOWY_DESC] Snowy: Winter wonderland, crisp whites, falling snow, cozy or dramatic atmosphere.
+[SCENESETUP_WEATHER_FOGGY_DESC] Foggy: Mysterious, hazy, ethereal feel, obscured backgrounds, soft light.
+Category: Time of Day (Source: ImgGenLayout_w_GeminiDeep.txt, [78-80])
+
+[SCENESETUP_TIMEOFDAY_MORNINGGOLDENHOUR_DESC] Morning (Golden Hour): Soft, golden light, fresh start, long shadows, warm tones. Heavily utilized by SI Swimsuit.
+[SCENESETUP_TIMEOFDAY_AFTERNOON_DESC] Afternoon: Bright, even light, clarity, potentially harsher shadows depending on sun position.
+[SCENESETUP_TIMEOFDAY_EVENINGGOLDENHOUR_DESC] Evening (Golden Hour): Warm, dramatic shadows, romance, rich colors as sun sets. A key time for SI Swimsuit photography.
+[SCENESETUP_TIMEOFDAY_NIGHT_DESC] Night: Dark, artificial light (streetlights, neon), mystery, dramatic contrast, city lights.
+Category: Props (Source: ImgGenLayout_w_GeminiDeep.txt, [81-83])
+
+[SCENESETUP_PROPS_VINTAGECAR_DESC] Vintage Car: Adds a classic, nostalgic, or stylish touch to the scene.
+[SCENESETUP_PROPS_FLOWERS_DESC] Flowers: Romantic, natural, or artistic accent; can be bouquets, scattered petals, or part of the environment.
+[SCENESETUP_PROPS_FURNITURE_DESC] Furniture: Chairs, couches, tables for posing options or to define the setting's style.
+[SCENESETUP_PROPS_ARTPIECES_DESC] Art Pieces: Paintings, sculptures, installations, adding sophistication or a conceptual element.
+[SCENESETUP_PROPS_TECHGADGETS_DESC] Tech Gadgets: Modern, futuristic elements like smartphones, VR headsets, or abstract tech items.
+[SCENESETUP_PROPS_SPORTSEQUIPMENT_DESC] Sports Equipment: Athletic, dynamic props like surfboards, tennis rackets, skateboards, aligning with a sporty theme.
+[SCENESETUP_PROPS_CANES_DESC] Canes: Elegant walking sticks adding sophistication, authority, or a vintage flair, as seen in Vogue's "Black Dandy" issue.
+Category: Gear - Camera (Source: ImgGenLayout_w_GeminiDeep.txt, [85-86])
+
+[SCENESETUP_GEAR_CAMERA_DSLR_DESC] DSLR: "Shot on DSLR" - suggests versatile, high-quality professional digital photography.
+[SCENESETUP_GEAR_CAMERA_MIRRORLESS_DESC] Mirrorless: "Shot on Mirrorless Camera" - suggests modern tech, lightweight, high-quality digital photography.
+[SCENESETUP_GEAR_CAMERA_FILM_DESC] Film: "Shot on Film" - suggests vintage, analog aesthetic, grainy texture, rich colors, specific film stock look (e.g., Portra 400, Kodak Gold). (Playboy historically used medium/large format film).
+Category: Gear - Lens (Source: ImgGenLayout_w_GeminiDeep.txt, [87-88])
+
+[SCENESETUP_GEAR_LENS_WIDEANGLE_DESC] Wide-Angle Lens: Expands view, adds depth, captures more of the environment, can create dramatic perspectives (e.g., 24mm, 35mm).
+[SCENESETUP_GEAR_LENS_STANDARD_DESC] Standard Lens: Natural, human-eye perspective, versatile (e.g., 50mm).
+[SCENESETUP_GEAR_LENS_TELEPHOTO_DESC] Telephoto Lens: Zooms in, compresses distance, creates shallow depth of field, isolates subject (e.g., 85mm, 200mm).
+[SCENESETUP_GEAR_LENS_MACRO_DESC] Macro Lens: Captures tiny details, textures, extreme close-ups.
+Category: Gear - Lighting (Advanced Tool) (Source: ImgGenLayout_w_GeminiDeep.txt, [89-108])
+
+Type:
+[SCENESETUP_LIGHTING_TYPE_SOFTBOX_DESC] Softbox Lighting: Soft, diffused light; reduces harsh shadows. Excellent for flattering portraits and fashion. Used in portrait/glamour and Teen Vogue (octabox).
+[SCENESETUP_LIGHTING_TYPE_UMBRELLA_DESC] Umbrella Lighting: Broad, even light; mimics natural glow, can be shoot-through for softer light or reflective for more specular light.
+[SCENESETUP_LIGHTING_TYPE_BEAUTYDISH_DESC] Beauty Dish Lighting: Focused, glamorous light with a distinct falloff; enhances skin texture and cheekbones. Common in Glamour/Beauty photography.
+[SCENESETUP_LIGHTING_TYPE_RINGLIGHT_DESC] Ring Light: Shadowless, even illumination ideal for close-ups, beauty shots, creating distinct catchlights in eyes. Used in Glamour/Beauty.
+[SCENESETUP_LIGHTING_TYPE_SPOTLIGHT_DESC] Spotlight: Intense, focused beam of light; creates dramatic highlights, deep shadows, and a theatrical effect.
+[SCENESETUP_LIGHTING_TYPE_NATURALLIGHT_DESC] Natural Light Photography: Utilizing sunlight (direct, diffused through clouds/windows, reflected) for an authentic or specific mood. Preferred by SI Swimsuit, Maxim (Yaro), and Lifestyle photographers.
+[SCENESETUP_LIGHTING_TYPE_FLASHFILL_DESC] Flash Fill Lighting: Using flash to brighten the subject when the background is brighter or to add catchlights and reduce shadows, a technique in SI Swimsuit photography.
+Position:
+[SCENESETUP_LIGHTING_POSITION_FRONT_DESC] Front Lighting: Light source directly in front of the subject, flatters face, minimizes shadows, creates a bright look.
+[SCENESETUP_LIGHTING_POSITION_SIDE_DESC] Side Lighting (Split Lighting): Light source to the side of the subject, adds depth, creates dramatic shadows and highlights, sculpts features.
+[SCENESETUP_LIGHTING_POSITION_BACKRIM_DESC] Back Lighting (Rim Light): Light source behind the subject, creates silhouettes or glowing halos, outlining the subject and separating them from the background. Used in SI Swimsuit and general portraiture.
+[SCENESETUP_LIGHTING_POSITION_TOP_DESC] Top Lighting: Light source directly above the subject, can mimic sunlight or create dramatic downward shadows.
+[SCENESETUP_LIGHTING_POSITION_BOTTOM_DESC] Bottom Lighting (Uplighting): Light source from below the subject, creates dramatic, often eerie or powerful, upward shadows, cinematic flair.
+[SCENESETUP_LIGHTING_POSITION_SHORTLIGHTING_DESC] Short Lighting: Lights the side of the face further from the camera, creating more shadow on the camera-facing side for a dramatic, slimming effect. Used in editorial portraits for mystery.
+[SCENESETUP_LIGHTING_POSITION_BUTTERFLYLIGHTING_DESC] Butterfly Lighting (Paramount Lighting): Main light above and aimed down at subject's face, creating a butterfly-shaped shadow under the nose; accentuates cheekbones. Common in glamour/fashion portraits.
+[SCENESETUP_LIGHTING_POSITION_REMBRANDTLIGHTING_DESC] Rembrandt Lighting: Creates a characteristic triangle of light on the less illuminated cheek; known for its moody, artistic quality in portraiture.
+Intensity: (These are relative terms, prompt might use "low key" or "high key" as well)
+[SCENESETUP_LIGHTING_INTENSITY_LOW_DESC] Low Intensity Lighting: Subtle, moody, understated light, often resulting in darker images with deep shadows (low key).
+[SCENESETUP_LIGHTING_INTENSITY_MEDIUM_DESC] Medium Intensity Lighting: Balanced, versatile brightness, good for general purpose, well-exposed images.
+[SCENESETUP_LIGHTING_INTENSITY_HIGH_DESC] High Intensity Lighting: Bold, bright, high-energy look, potentially overexposed highlights or a high-key effect.
+Color Temperature / Effects:
+[SCENESETUP_LIGHTING_COLORTEMP_WARM_DESC] Warm (Golden Hour Tones) Lighting: Cozy, golden-hour tones (yellows, oranges, reds). Mimics the warm, soft light of early morning or late afternoon, characteristic of SI Swimsuit and classic Playboy.
+[SCENESETUP_LIGHTING_COLORTEMP_NEUTRAL_DESC] Neutral Lighting: Clean, daylight-balanced light (white light), true-to-life colors.
+[SCENESETUP_LIGHTING_COLORTEMP_COOL_DESC] Cool Lighting: Modern, edgy, blue-toned feel, can convey sterility or nighttime.
+[SCENESETUP_LIGHTING_EFFECT_GOLDWARMINGREFLECTORS_DESC] Gold Warming Reflectors: Using reflectors to bounce warm-toned light onto the subject, enhancing skin tones, adding a golden glow, a technique noted in SI Swimsuit photography.
+Tab 2: Model Customization
+
+Category: Hair (Source: ImgGenLayout_w_GeminiDeep.txt, [110-114])
+
+[MODEL_HAIR_SLEEKHIGHBUN_DESC] Sleek High Bun: Elegant, polished, formal updo, hair pulled tightly back.
+[MODEL_HAIR_LOOSEWAVES_DESC] Loose Waves: Soft, romantic, effortless wavy hairstyle, beachy or gentle curls.
+[MODEL_HAIR_EDGYPIXIECUT_DESC] Edgy Pixie Cut: Modern, chic, bold short hairstyle with texture or asymmetry.
+[MODEL_HAIR_BRAIDS_DESC] Braids: Intricate, cultural, or versatile braided styles (e.g., cornrows, box braids, fishtail, crown braid).
+[MODEL_HAIR_AFRO_DESC] Afro: Natural, voluminous, textured beauty, celebrating natural Black hair.
+[MODEL_HAIR_UPDO_DESC] Updo: Formal, sophisticated, intricate hairstyle with hair pinned up, can be classic or modern.
+[MODEL_HAIR_PONYTAIL_DESC] Ponytail: Casual, sporty, or sleek; can be high, low, or side ponytail.
+[MODEL_HAIR_AVANTGARDE_DESC] Avant-Garde Hairstyles: Experimental, artistic, and unconventional hair designs, often featured in Vogue high fashion, sculptural or unusually colored.
+[MODEL_HAIR_VOLUMINOUSWITHEXTENSIONS_DESC] Voluminous Hair / Extensions: Adding hair extensions for fullness, length, and to withstand outdoor conditions like humidity or wind, a common practice in SI Swimsuit shoots.
+Category: Makeup (Source: ImgGenLayout_w_GeminiDeep.txt, [115-119])
+
+[MODEL_MAKEUP_BOLDSMOKEYEYES_DESC] Bold Smokey Eyes: Sultry, dramatic, evening-ready eye makeup with dark, blended eyeshadow.
+[MODEL_MAKEUP_NATURALDEWYLOOK_DESC] Natural Dewy Look: Fresh, glowing, daytime chic makeup, emphasizing hydrated skin and minimal color.
+[MODEL_MAKEUP_REDLIPCLASSIC_DESC] Red Lip Classic: Timeless glamour with a bold red lipstick accent, often paired with simple eye makeup.
+[MODEL_MAKEUP_AVANTGARDE_DESC] Avant-Garde Makeup: Experimental, colorful, artistic makeup, often seen in Vogue high fashion, using unconventional colors or applications.
+[MODEL_MAKEUP_NOMAKEUP_DESC] No-Makeup Look: Minimal, effortless beauty, enhancing natural features subtly.
+[MODEL_MAKEUP_GLITTERACCENTS_DESC] Glitter Accents: Sparkly, playful, festive touch on eyes, lips, or skin.
+[MODEL_MAKEUP_FLAWLESSSKIN_DESC] Flawless Skin: Smooth, blemish-free skin, often enhanced by lighting and retouching, a key element in Beauty Photography and Glamour styles.
+[MODEL_MAKEUP_WATERPROOF_DESC] Waterproof Makeup: Makeup designed to withstand water, ideal for beach, pool, or tearful emotional shoots, as mentioned in Cosmopolitan for swimwear.
+Category: Wardrobe (Source: ImgGenLayout_w_GeminiDeep.txt, [120-124])
+
+[MODEL_WARDROBE_EVENINGGOWN_DESC] Evening Gown: Formal, elegant, floor-length dress for special occasions or red carpet events.
+[MODEL_WARDROBE_CASUALCHIC_DESC] Casual Chic: Stylish, relaxed, everyday wear that is fashionable yet comfortable (e.g., designer jeans, cashmere sweater, stylish flats).
+[MODEL_WARDROBE_ATHLEISURE_DESC] Athleisure Wardrobe: Sporty, comfortable, trendy outfits blending athletic wear with casual pieces.
+[MODEL_WARDROBE_BUSINESSATTIRE_DESC] Business Attire: Professional, sharp, tailored clothing suitable for a corporate environment (e.g., suits, pencil skirts, blouses).
+[MODEL_WARDROBE_BOHEMIAN_DESC] Bohemian Wardrobe: Flowy, earthy, free-spirited clothing, often with prints, embroidery, and natural fabrics.
+[MODEL_WARDROBE_STREETWEAR_DESC] Streetwear: Urban, trendy, layered looks, often incorporating sneakers, graphic tees, hoodies, and contemporary accessories.
+[MODEL_WARDROBE_HAUTECOUTURE_DESC] Haute Couture Wardrobe: Custom-fitted, high-end designer clothing, often unique, artistic, and made with exquisite craftsmanship, central to Vogue and Glamour's Fashion Glamour.
+[MODEL_WARDROBE_VINTAGECLOTHING_DESC] Vintage Clothing: Authentic or reproduction clothing from past eras, aligning with Glamour's Vintage Glamour style, reflecting specific historical fashion trends.
+[MODEL_WARDROBE_BODYPAINTASWARDROBE_DESC] Body Paint (as Wardrobe): Using paint to create the illusion of clothing directly on the skin, a signature of SI Swimsuit, transforming the body into a canvas.
+Category: Accessories (Source: ImgGenLayout_w_GeminiDeep.txt, [125-127])
+
+[MODEL_ACCESSORIES_STATEMENTJEWELRY_DESC] Statement Jewelry: Bold, eye-catching pieces like large necklaces, chunky earrings, or unique bracelets.
+[MODEL_ACCESSORIES_DESIGNERHANDBAG_DESC] Designer Handbag: Luxury, functional, stylish handbag from a well-known fashion house.
+[MODEL_ACCESSORIES_OVERSIZEDSUNGLASSES_DESC] Oversized Sunglasses: Chic, glamorous, bold eyewear providing a fashionable statement.
+[MODEL_ACCESSORIES_HEADPIECE_DESC] Headpiece: Tiaras, fascinators, elaborate hats, or artistic headwear for dramatic flair or specific themes.
+[MODEL_ACCESSORIES_SCARVES_DESC] Scarves: Layered, textured, versatile scarves made of silk, cashmere, or other fabrics, used for style or warmth.
+[MODEL_ACCESSORIES_GLOVES_DESC] Gloves: Delicate lace gloves, bold leather gloves, or elegant opera gloves, vintage or modern.
+Category: Shoes (Source: ImgGenLayout_w_GeminiDeep.txt, [127-129])
+
+[MODEL_SHOES_HIGHHEELS_DESC] High Heels: Elegant, elongating, classic footwear, including stilettos, pumps, or heeled sandals.
+[MODEL_SHOES_SNEAKERS_DESC] Sneakers: Casual, trendy, comfortable athletic-inspired footwear, from classic styles to high-fashion sneakers.
+[MODEL_SHOES_BOOTS_DESC] Boots: Edgy, versatile, ankle-high, knee-high, or thigh-high boots in various materials and styles.
+[MODEL_SHOES_FLATS_DESC] Flats: Chic, practical, understated footwear like ballet flats, loafers, or elegant flat sandals.
+[MODEL_SHOES_SANDALS_DESC] Sandals: Summery, relaxed, open-toe footwear, ranging from casual flip-flops to elegant heeled sandals.
+Category: Body Type (Source: ImgGenLayout_w_GeminiDeep.txt, [129-132])
+
+[MODEL_BODYTYPE_CURVY_DESC] Curvy Body Type: Full-figured, hourglass shape, celebrating curves and a voluptuous physique.
+[MODEL_BODYTYPE_PETITE_DESC] Petite Body Type: Small, delicate frame, dainty proportions, shorter stature.
+[MODEL_BODYTYPE_ATHLETIC_DESC] Athletic Body Type: Toned, muscular, strong physique, reflecting an active lifestyle.
+[MODEL_BODYTYPE_TALL_DESC] Tall Body Type: Statuesque, elongated silhouette, often seen in runway models.
+[MODEL_BODYTYPE_DIVERSEANDINCLUSIVE_DESC] Diverse and Inclusive Body Types: Representing a wide range of body shapes, sizes, and types, reflecting modern trends in SI Swimsuit, Cosmopolitan, Glamour, and Vogue.
+[MODEL_BODYTYPE_BIGGERANDHEALTHIERCALIFORNIAWOMEN_DESC] "Bigger and Healthier" California Women (Historical Context): A move away from waif-like models to those with more athletic or fuller figures, characteristic of early SI Swimsuit issues under Jule Campbell.
+Category: Skin Tone (Source: ImgGenLayout_w_GeminiDeep.txt, [133-134])
+
+[MODEL_SKINTONE_LIGHT_DESC] Light Skin Tone: Fair, porcelain complexion, possibly with cool or warm undertones.
+[MODEL_SKINTONE_MEDIUM_DESC] Medium Skin Tone: Olive, tan, warm undertones, sun-kissed look.
+[MODEL_SKINTONE_DEEP_DESC] Deep Skin Tone: Rich, dark, vibrant tones, from deep browns to ebony.
+[MODEL_SKINTONE_SPRAYTAN_DESC] Spray Tan Effect: Achieving a tanned look via spray application before the shoot, a common practice for SI Swimsuit models, providing an even, golden glow.
+Tab 3: Pose and Composition
+
+Category: Model Pose (Descriptive options, as Model Poser Tool is advanced) (Source: ImgGenLayout_w_GeminiDeep.txt, [136], [139-146])
+
+[POSE_DYNAMICACTION_DESC] Dynamic Action Pose: Captures movement like walking, running, jumping, dancing. Aligns with SI Swimsuit's athletic posing and Glamour's Fashion Glamour.
+[POSE_RECLINING_DESC] Reclining Pose: Relaxed, sensual, laid-back pose, lying down or leaning back.
+[POSE_OVERTHESHOULDER_DESC] Over-the-Shoulder Pose: Alluring, subtle perspective, model looking back over their shoulder.
+[POSE_EXAGGERATEDPOSES_DESC] Exaggerated Pose: Unconventional, dramatic, and artistic model positioning, characteristic of Vogue high fashion.
+[POSE_ALLURINGPOSES_DESC] Alluring Pose: Poses designed to highlight sensuality and attractiveness, key to Glamour photography and Playboy.
+[POSE_PROVOCATIVEPOSES_DESC] Provocative Pose: Overtly sexual and suggestive model positioning, often seen in Maxim.
+[POSE_ENVIRONMENTALINTEGRATION_DESC] Environmental Integration Pose: Poses that incorporate and interact with the surrounding environment, a feature of SI Swimsuit photography.
+[POSE_SANDYBUTTSUGARCOOKIE_DESC] "Sandy Butt" / "Sugar Cookie" Pose: A specific pose/effect where sand adheres to the model's backside, an SI Swimsuit signature. (You would add more predefined poses here based on fashion photography archetypes)
+Category: Composition Options (Source: ImgGenLayout_w_GeminiDeep.txt, [137-138], [140-141], [147-151])
+
+[COMPOSITION_FULLLENGTHSHOT_DESC] Full-Length Shot: Shows entire outfit and model from head to toe, emphasizing the overall look and silhouette.
+[COMPOSITION_CLOSEUP_DESC] Close-Up Shot: Highlights face, makeup, jewelry, or specific details of a garment or accessory.
+[COMPOSITION_MEDIUMSHOT_DESC] Medium Shot: Shows model from approximately the waist up, balancing subject and some background.
+[COMPOSITION_UPPERBODYSHOT_DESC] Upper Body Shot (Bust Shot): Frames the model from the chest or shoulders up, focusing on expression and upper garment details.
+[COMPOSITION_GROUPSHOT_DESC] Group Shot: Features multiple models together, showcasing interaction or a collection.
+[COMPOSITION_ASYMMETRICALFRAMING_DESC] Asymmetrical Framing: Artistic, off-center balance, creating visual interest and dynamism.
+[COMPOSITION_SYMMETRICALFRAMING_DESC] Symmetrical Framing: Even, mirrored, harmonious look, creating a sense of order and balance.
+[COMPOSITION_DIAGONALLINES_DESC] Diagonal Lines Composition: Dynamic, uses leading lines along diagonals to create energy and guide the eye.
+[COMPOSITION_FRAMINGWITHSCENEELEMENTS_DESC] Framing with Scene Elements: Incorporates elements from the scene (e.g., arches, doorways, windows) to frame the subject.
+[COMPOSITION_RULEOFTHIRDS_DESC] Rule of Thirds Composition: Placing key elements on intersecting lines when the frame is divided into thirds, creating a balanced and engaging image. Widely used, noted for SI Swimsuit (eyes) and general portraiture.
+[COMPOSITION_LEADINGLINES_DESC] Leading Lines Composition: Using lines within the scene (roads, paths, architectural elements) to draw the viewer's eye to the subject. Common in portraiture and artistic nudes.
+[COMPOSITION_SHALLOWDEPTHOFFIELD_DESC] Shallow Depth of Field Effect: Blurring the background to make the subject stand out sharply, creating a professional, focused look. Achieved with wide apertures, as seen in SI Swimsuit and portraiture.
+[COMPOSITION_MEDIUMDEPTHOFFIELD_DESC] Medium Depth of Field Effect: Keeps the subject sharp while the background is moderately blurred, providing some context but still emphasizing the subject.
+[COMPOSITION_DEEPDEPTHOFFIELD_DESC] Deep Depth of Field Effect: Keeps both the subject and background relatively in focus, suitable for landscapes or when environmental context is crucial.
+Tab 4: Magazine Layout (Stylistic Influences on Generation)
+
+Category: Filters & Effects (for image generation prompt) (Source: ImgGenLayout_w_GeminiDeep.txt, [163-167])
+
+[EFFECTS_VINTAGE_DESC] Vintage Filter Effect: Imparts sepia tones, an aged paper look, film grain, or a nostalgic, retro feel to the image.
+[EFFECTS_HIGHCONTRAST_DESC] High-Contrast Filter Effect: Creates bold, dramatic images with sharp edges, deep blacks, and bright whites, characteristic of Vogue and Elle.
+[EFFECTS_SOFTFOCUS_DESC] Soft Focus Filter Effect: Produces dreamy, blurred, ethereal edges, reducing sharpness for a romantic or classic glamour feel. A signature of classic Playboy; also used in Glamour's Vintage style.
+[EFFECTS_BLACKANDWHITE_DESC] Black and White Filter Effect: Converts the image to monochrome, emphasizing tones, textures, contrast, and composition for a timeless, classic, or moody look.
+[EFFECTS_COLORPOP_DESC] Color Pop Filter Effect: Highlights specific hues for impact while desaturating others, drawing attention to key elements.
+[EFFECTS_MUSKYHAZEFILTER_DESC] Musky Haze Filter Effect: A subtle, desaturated, and slightly hazy effect for a unique visual mood, seen in some Elle photography.
+[EFFECTS_GOLDENHOURGLOW_DESC] Golden Hour Glow Effect: Replicates the warm, soft, dimensional light of early morning or late afternoon, characteristic of SI Swimsuit photography, enhancing skin tones and creating long shadows.
+(This list covers many, but you'll want to go through ImgGenLayout_w_GeminiDeep.txt with a fine-tooth comb to ensure every option you want to include has a corresponding entry and marker here.)
+
+END OF MARKED DESCRIPTIONS
